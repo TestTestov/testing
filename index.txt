@@ -2,6 +2,9 @@ Hi
 Hi Hi
 Hi
 
+
+Kuzmenko
+
 БЭМ
 	- Методология БЭМ: https://ru.bem.info/
 	- С чего всё начиналось и зачем это всё нужно: https://habrahabr.ru/company/yandex/blog/276035/
